@@ -7,7 +7,7 @@ tags: web design, engaging, tips
 ---
 Whether you're designing a website for your client, or you're customising your personal WordPress blog, an engaging website design is the key to attracting and retaining your users. 
 
-<img src="https://c1.staticflickr.com/8/7389/26778926664_9d66cbc4f3_c.jpg" height="500px"></img>
+<img src="https://c1.staticflickr.com/8/7389/26778926664_9d66cbc4f3_c.jpg" height="500px">
 
 Not only does it raise the aesthetic appeal of your website, it also ensures that you keep them happy, engaged and coming back. If you keep them happy enough, they might even start recommending your website to their friends and family, driving tons of potential leads to your website!
 <!--excerpt-->
