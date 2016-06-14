@@ -41,7 +41,7 @@ theme:
   # Scripts
   google_analytics: "UA-69270848-4"
   disqus_shortname: brunotandev
-  katex: true # Enable if using math markup
+  katex: false # Enable if using math markup
 
   # Localization strings
   str_follow_on: "Follow on"
