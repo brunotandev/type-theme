@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/type-theme"
 url: "https://brunotandev.github.io/"
+excerpt_separator: "<!--excerpt-->"
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
