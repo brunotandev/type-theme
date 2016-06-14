@@ -4,10 +4,9 @@ title: WordPress vs Blogger vs Typepad - Which One is Best for You?
 comments: true
 published: true
 tags: wordpress, blogger, typepad, best blogging platform
+feature-img: "https://c8.staticflickr.com/8/7706/26780895343_dffa4ef0b7_z.jpg"
 ---
 If you're just starting out in the world of blogging, one of the earliest decisions you'll have to make is choosing the blogging platform that powers your blog.
-
-![Blogging Laptop](https://c8.staticflickr.com/8/7706/26780895343_dffa4ef0b7_z.jpg)
 
 Don't worry - choosing the right blogging platform doesn't have to be difficult. In this post, I’ll be going through 3 of the most popular blogging platforms, as well as their advantages and disadvantages below. I’ll also be going through who each platform is for in order to help you choose the best platform for your own blogging needs.
 <!--excerpt-->
