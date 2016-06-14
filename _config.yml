@@ -68,4 +68,8 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-gems: [jekyll-paginate]
+gems:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-paginate
