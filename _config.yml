@@ -6,7 +6,7 @@ excerpt_separator: "<!--excerpt-->"
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Bruno's Blog
+  title: Bruno
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "Blogging, search engine optimisation and digital marketing for smart people." # used by search engines
