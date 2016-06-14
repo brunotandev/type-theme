@@ -7,7 +7,7 @@ tags: search engine optimisation, google, crawl, index
 ---
 So, you built a website. Congratulations! Now that your website has been published and ready for the world to see, you may feel like your work is done, but guess what? 
 
-![Search traffic](https://c5.staticflickr.com/8/7342/26805069284_460cca0ace_c.jpg)
+<img src="https://c5.staticflickr.com/8/7342/26805069284_460cca0ace_c.jpg" height="500px"></img>
 
 Creating your website is just the tip of the iceberg - you’ll have to work on getting your website indexed by Google so that people will be able to find your website through search.
 
